@@ -1,7 +1,8 @@
 {
   "store_id": 9843,
   "name": "tealegrar",
-  "domain": "tealegrar.netlify.app",
+  "domain": "tealegrar.com.br",
+  "repository": "ecomplus-stores/tealegrar",
   "short_name": "tealegrar",
   "description": "tealegrar",
   "primary_color": "#222831",
