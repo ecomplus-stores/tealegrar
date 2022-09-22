@@ -3,13 +3,13 @@
   "currency_symbol": "R$",
   "primary_color": "#222831",
   "theme": {
-    "bootswatch": "_",
-    "custom": "_"
+    "bootswatch": "spacelab",
+    "custom": "clean-gray"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/tealegrar",
   "logo": "/img/uploads/logo.png",
-  "name": "Tealegrar",
+  "name": "Tealegrar Brinquedos Educativos",
   "short_name": "Tealegrar",
   "lang": "pt_br",
   "currency": "BRL",
@@ -21,6 +21,6 @@
   "secondary_color": "#393e46",
   "icon": "/img/icon.png",
   "store_id": 9843,
-  "description": "Tealegrar Brinquedos Educativos",
+  "description": "Na TEALEGRAR você encontra uma ampla linha de brinquedos educativos e pedagógicos de fabricação própria além das grandes marcas do mercado. Atendemos atacado, varejo e compras especiais (licitações, escolas, clinicas e instituições). Entre em contato conosco.",
   "large_icon": "/img/large-icon.png"
 }
